@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#use while and case for iteration
 n=1
 while [ $n -le 20 ]
 do
